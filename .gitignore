@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/Frontend/src/assets/picofme (5).png
+.env
+Backend\.env
