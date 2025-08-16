@@ -87,14 +87,10 @@ Git, GitHub, VS Code
 <hr style="border: 1px solid #FFD966; width:100%; margin: 20px auto;">
 
 ### Dashboard Video Walkthrough
- Watch the real-time dashboard in action, including live Bitcoin charts, KPI cards, and top 5 crypto trends.
+Watch the real-time dashboard in action, including live Bitcoin charts, KPI cards, and top 5 crypto trends:
 
-<div align="center">
-  <video width="720" controls style="border-radius:12px;">
-    <source src="Frontend/src/assets/Task-2-dashboard-video - Made with Clipchamp.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+[Watch the Dashboard Video](https://github.com/insaabbas/crypto-dashboard/blob/main/Frontend/src/assets/Task-2-dashboard-video%20-%20Made%20with%20Clipchamp.mp4)
+
 
 <div align="center">
   <video width="720" controls style="border-radius:12px;">
@@ -130,8 +126,6 @@ Git, GitHub, VS Code
 
 ### Dashboard Page - KPI Cards
 - Displays key performance indicators such as total market cap, volume, price change, and trending cryptocurrencies in an easy-to-read card format.
-
-
 #
 
 <div align="center">
