@@ -1,1 +1,2 @@
 .env # Ignore environment file
+Backend\.env

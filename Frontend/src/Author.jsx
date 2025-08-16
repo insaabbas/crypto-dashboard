@@ -1,5 +1,5 @@
 import React from "react";
-import authorPic from "./assets/picofme (5).png"; // adjust path if needed
+import authorPic from "./assets/pic.png"; // adjust path if needed
 import { FaReact, FaJs, FaCss3Alt, FaHtml5, FaChartLine, FaFigma, FaGithub, FaLinkedin } from "react-icons/fa";
 
 export default function Author() {
