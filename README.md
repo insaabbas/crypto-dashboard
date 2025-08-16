@@ -2,7 +2,7 @@
 # crypto-dashboard
 Description: Real-time cryptocurrency tracking dashboard built with React (frontend) and Node.js (backend). Features live Bitcoin price charts, top 5 crypto metrics, KPI cards, responsive navigation, interactive charts with CoinGecko API, and WebSocket-powered real-time updates. 
 
-# Getting Started with Create React App
+
 
 <h1 align="center" style="color: #FFD966;">
   Crypto Dashboard - Real-Time Cryptocurrency Tracker
@@ -13,7 +13,7 @@ Description: Real-time cryptocurrency tracking dashboard built with React (front
 
 <div style="position: relative; text-align: center;">
   <img src="Frontend/src/assets/coin1.gif" 
-       style="width:30%; opacity:0.2; border-radius:570px;">
+       style="width:10%; opacity:0.2; border-radius:570px;">
 </div>
 
 
@@ -87,7 +87,14 @@ Git, GitHub, VS Code
 <hr style="border: 1px solid #FFD966; width:100%; margin: 20px auto;">
 
 ### Dashboard Video Walkthrough
-Left-aligned description: Watch the real-time dashboard in action, including live Bitcoin charts, KPI cards, and top 5 crypto trends.
+ Watch the real-time dashboard in action, including live Bitcoin charts, KPI cards, and top 5 crypto trends.
+
+<div align="center">
+  <video width="720" controls style="border-radius:12px;">
+    <source src="Frontend/src/assets/Task-2-dashboard-video - Made with Clipchamp.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 <div align="center">
   <video width="720" controls style="border-radius:12px;">
@@ -125,8 +132,7 @@ Left-aligned description: Watch the real-time dashboard in action, including liv
 - Displays key performance indicators such as total market cap, volume, price change, and trending cryptocurrencies in an easy-to-read card format.
 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
+#
 
 <div align="center">
   <img src="Frontend/src/assets/realtime-kpi-cards.png" alt="Dashboard KPI Cards" style="width:70%; max-width:700px; border-radius:10px;">
